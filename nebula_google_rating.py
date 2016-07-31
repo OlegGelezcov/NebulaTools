@@ -1,3 +1,6 @@
+#This program parses the application page on Gugle Plai and displays rating, raised by users.
+# Also calculates how much you need to put 5 ratings even to average applications has reached a certain size
+
 import urllib.request
 from html.parser import HTMLParser
 import sys
